@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-with-css-grid-ZfYYvQy9mQ)
+- Live Site URL: [Netlify](https://fm-challenge-article-preview-comp.netlify.app)
 
 ## My process
 
